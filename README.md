@@ -36,7 +36,7 @@ pip install tensorrt_llm --extra-index-url https://pypi.nvidia.com --extra-index
 ```
 python ./app.py
 ```
-Note I made a fun terminal chatbot with no converation memory as well, to run it use:
+Note: I made a fun terminal chatbot with no conversation memory as well, to run it use:
 ```
 python ./chat_no_mem.py
 ```
