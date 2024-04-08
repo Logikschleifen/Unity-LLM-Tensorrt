@@ -1,6 +1,7 @@
 # Unity-LLM-Tensorrt
 A simple demo game made in unity to demonstrate my idea for using AI in video games (at least until gpt 6.7 comes out). Made for the nividia dev competition.
 
+Youtube vid (Im not great at making these so plz be kind) - https://www.youtube.com/watch?v=hnojD7O0nKk&t=114s 
 ## Python Setup
 Prerequisites are the same as [tensorrt-llm for windows](https://github.com/NVIDIA/TensorRT-LLM/blob/main/windows/README.md): 
 - [Python 3.10](https://www.python.org/downloads/windows/)
